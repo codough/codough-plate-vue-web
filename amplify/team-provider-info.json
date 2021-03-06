@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-codoughplatewebvue-dev-72410-authRole",
+      "UnauthRoleArn": "arn:aws:iam::300336868397:role/amplify-codoughplatewebvue-dev-72410-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::300336868397:role/amplify-codoughplatewebvue-dev-72410-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-codoughplatewebvue-dev-72410-deployment",
+      "UnauthRoleName": "amplify-codoughplatewebvue-dev-72410-unauthRole",
+      "StackName": "amplify-codoughplatewebvue-dev-72410",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:300336868397:stack/amplify-codoughplatewebvue-dev-72410/f34e2090-7e4c-11eb-bfb1-0eae005f6ae5",
+      "AmplifyAppId": "d29uvitvs107vv"
+    }
+  }
+}
